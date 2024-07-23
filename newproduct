@@ -1,0 +1,249 @@
+<section id="portfolio" style="position: relative;">
+            <div class="rseparator"></div>
+            <div class="rcontainer-fluid">
+                <div class="col-md-12 text-center">
+                    <h3>Greatest Works.</h3>
+                    <p>Creating products</p>
+                 </div>
+                </div>
+				<table class="producttable" border="10px" >
+					<tr>
+						<th><b>Photo</b></th>
+						<th><b>Benefits</b></th>
+					</tr>
+					<tr>
+						
+						<div class="images">
+						
+							<div class="moringacontainer" style="padding-left: 20px;">
+								<td>
+					<img src="img/wheat-gass-tablet-250x250.jpg"alt="#">
+					
+				</td>
+				<td>
+					<p class="contain">
+						1.)Moringa Oleifera is Very Nutritious. <br>
+						2)Moringa Oleifera is Rich in Antioxidants.<br>
+						3)Moringa Oleifera May Lower Blood Sugar Levels.<br>
+						4)Moringa Oleifera May Reduce </p>
+				</td>
+				</div>
+			</tr>
+	
+				<tr>
+					
+				<div>
+						<div class="aloevera">
+						<td>	<img src="img/aloeverafiberjuice.jpg" alt="#">
+						</td>
+							<td><p class="contain">
+								1.)Moringa Oleifera is Very Nutritious. <br>
+								2)Moringa Oleifera is Rich in Antioxidants.<br>
+								3)Moringa Oleifera May Lower Blood Sugar Levels.<br>
+								4)Moringa Oleifera May Reduce </p>
+						</td>
+							</div>
+						</tr>
+						
+					
+						<tr>
+						<div class="dmax">
+							<td>	<img src="img/D-max.jpg" alt="#"></td>
+									<td><p class="contain">
+										1.)Moringa Oleifera is Very Nutritious. <br>
+										2)Moringa Oleifera is Rich in Antioxidants.<br>
+										3)Moringa Oleifera May Lower Blood Sugar Levels.<br>
+										4)Moringa Oleifera May Reduce </p>
+								</td>
+								</div>
+								</tr>
+							
+<tr>
+				<div class="digestive">
+						<td>		<img src="img/digestsyrup.jpg" alt="#"></td>
+									<td><p class="contain">
+										1.)Moringa Oleifera is Very Nutritious. <br>
+										2)Moringa Oleifera is Rich in Antioxidants.<br>
+										3)Moringa Oleifera May Lower Blood Sugar Levels.<br>
+										4)Moringa Oleifera May Reduce </p></td>
+										
+										
+											</p>
+											</div>
+									</tr>
+
+									<tr>
+									<div class="giloy">
+								<td><img src="img/giloy.jpg" alt="#"></td>
+													<td><p class="contain">
+														1.)Moringa Oleifera is Very Nutritious. <br>
+														2)Moringa Oleifera is Rich in Antioxidants.<br>
+														3)Moringa Oleifera May Lower Blood Sugar Levels.<br>
+														4)Moringa Oleifera May Reduce </p></td>
+									</div>
+												</tr>
+											
+
+			           <tr>
+						  <div class="kuffkill">
+								<td><img src="img/kuffkillsyruip.jpg" alt="#"></td>
+								<td><p class="contain">
+									1.)Moringa Oleifera is Very Nutritious. <br>
+									2)Moringa Oleifera is Rich in Antioxidants.<br>
+									3)Moringa Oleifera May Lower Blood Sugar Levels.<br>
+									4)Moringa Oleifera May Reduce </p>
+								</td>
+								</div>
+							</tr>
+									
+				<tr>
+					<div class="liv">
+							<td>	<img src="img/liv-jigshauryasyrup.jpg" alt="#"></td>
+									<td><p class="contain">
+								1.)Moringa Oleifera is Very Nutritious. <br>
+							    2)Moringa Oleifera is Rich in Antioxidants.<br>
+								3)Moringa Oleifera May Lower Blood Sugar Levels.<br>
+								4)Moringa Oleifera May Reduce </p></td>	
+								</div>									
+																</tr>
+															
+				
+					<tr>
+					<div class="wheat">
+								<td><img src="img/wheat-gass-tablet-250x250.jpg" alt="#"></td>
+								<td><p class="contain">
+									1.)Moringa Oleifera is Very Nutritious. <br>
+									2)Moringa Oleifera is Rich in Antioxidants.<br>
+									3)Moringa Oleifera May Lower Blood Sugar Levels.<br>
+									4)Moringa Oleifera May Reduce </p></td>	
+					</div>											
+																		</tr>
+																																	
+			  <tr> <div class="nonienzymes">
+	
+								<td><img src="img/nonienzyme.jpg" alt="#"></td>																								
+							     <td><p class="contain">
+									1.)Moringa Oleifera is Very Nutritious. <br>
+									2)Moringa Oleifera is Rich in Antioxidants.<br>
+									3)Moringa Oleifera May Lower Blood Sugar Levels.<br>
+									4)Moringa Oleifera May Reduce </p></td>
+																</div>	
+																</tr>
+																																	
+																<tr><div class="osteomax">
+								<td><img src="img/Osteomaxcapsule.jpg" alt="#"></td>
+							    <td><p class="contain">
+									1.)Moringa Oleifera is Very Nutritious. <br>
+									2)Moringa Oleifera is Rich in Antioxidants.<br>
+									3)Moringa Oleifera May Lower Blood Sugar Levels.<br>
+									4)Moringa Oleifera May Reduce </p></td>	
+																						</div></tr>
+				</table>													
+				</div>
+				</tr>
+				</table>
+				</section>
+
+
+
+
+
+
+
+
+
+				
+				usa billing
+				consultancy
+				Manufacturing
+				
+				R&d    
+
+
+
+
+
+				aloevera page
+				ashwagandha
+				D-max 
+				digest-care
+				API
+				product page
+				diagnostic 
+				COE
+				giloy
+				liv-jigshaurya
+				m-fertien
+				moringa c
+				moringa p
+				noni
+				osteomax
+				product
+				wheatgrass
+
+
+
+
+
+
+
+
+
+
+
+				<link rel="stylesheet" href="css/jai.css">
+
+
+
+
+
+
+
+				                                    <li><a href="consultancy.html">Consultancy</a></li>
+                                                    <li><a href="API.html">API Pharmaceuticals</a></li>
+                                                    <li><a href="Usa medical billing solution.html">USA Medical Billing Solution</a></li>
+                                                    <li><a href="diagnostic.html">Diagnostic kit</a></li>
+                                                    <li><a href="surgical.html">Surgical Items</a></li>
+                                                    <li><a href="R&D.html">Research & Devlopment</a></li>
+                                                    <li><a href="Manufacturing.html">Manufacturing</a></li>
+													<li><a href="Center of excellence.html">Center Of Excellence</a></li>
+
+
+
+
+													#04AA6D
+
+
+
+
+													.containerrd {
+	  position: relative;
+	  max-width: 800px;
+	  margin: 0 auto;
+	 
+	}
+	
+	.containerrd img {vertical-align: middle;}
+	
+	.containerrd .content {
+	  position: absolute;
+	  bottom: 0;
+	  background: rgb(0, 0, 0); /* Fallback color */
+	  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+	  color: #f1f1f1;
+	  width: 50%;
+	  padding: 20px;
+	}
+	</style>
+	</head>
+	<body>
+	
+	<h2 style="text-align: center;">Formulayion/Manufacturing: Herbal (Ayurveda) Medicine and Products</h2>
+	<br>
+	<div class="containerrd">
+	  <img src="img/r&dheadingimg.jpg" alt="" style="width:75%; height: 500px; border-radius: 75%;">
+	  </div>
+	  <div class="containerRD">
+			  <img src="img/medicineRD.jpg" alt="" style="width:75%; height: 500px; border-radius: 75%;">
+	</div>
+
